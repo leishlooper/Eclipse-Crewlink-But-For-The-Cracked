@@ -6,10 +6,10 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CrewLink</h3>
+  <h3 align="center">CrewLink But For Cracked Among US</h3>
 
   <p align="center">
-    Free, open, Among Us proximity voice chat.
+    Free, open, Among Us proximity voice chat. ONLY FOR VERSIONS 22.8.25 AND ABOVE
     <br />
     <a href="https://github.com/ottomated/CrewLink/issues">Report Bug</a>
     ·
